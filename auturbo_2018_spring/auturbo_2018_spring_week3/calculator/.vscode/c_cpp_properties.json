@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/leon/catkin_ws/devel/include",
+        "/opt/ros/kinetic/include",
+        "/home/leon/catkin_ws/src/ar_track_alvar/ar_track_alvar/include",
+        "/home/leon/catkin_ws/src/calculator/include",
+        "/home/leon/catkin_ws/src/camera_umd/jpeg_streamer/include",
+        "/home/leon/catkin_ws/src/raspicam_node/include",
+        "/home/leon/catkin_ws/src/turtlebot3_applications/turtlebot3_panorama/include",
+        "/home/leon/catkin_ws/src/camera_umd/uvc_camera/include",
+        "/usr/include"
+      ],
+      "name": "Linux"
+    }
+  ]
+}
